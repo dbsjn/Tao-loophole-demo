@@ -30,7 +30,6 @@ Type,System Image
 SubSystem,Windows GUI  
 
 
-
-！[(https://github.com/greekn/Tao-loophole-demo/blob/master/cvss3.0/1.png)]
+![](https://github.com/greekn/Tao-loophole-demo/blob/master/cvss3.0/1.png)
 
 
