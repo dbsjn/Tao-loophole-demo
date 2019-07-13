@@ -27,6 +27,6 @@ By：Greekn
  
  漏洞文档XML项目地址：https://github.com/greekn/rce-bug
  
- 觉醒之心开源框架模块化插件项目地址：https://github.com/greekn/awakening-conscience  
+ 觉醒之心各类开源框架模块化插件项目地址：https://github.com/greekn/awakening-conscience  
  
 
