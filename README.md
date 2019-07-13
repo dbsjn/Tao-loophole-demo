@@ -16,7 +16,7 @@ By：Greekn
 ## 0x02 文件列表
 
  >cve-rule
- >>cvss3.0
+ >cvss3.0
 
 
 
