@@ -23,5 +23,7 @@ By：Greekn
  >>README.md
 
 ## 0X03 辅助工具
- 脆弱目标检查工具项目地址：https://github.com/greekn/vtd  
+ 脆弱目标检查工具项目地址：https://github.com/greekn/vtd 
+ 漏洞文档XML项目地址https://github.com/greekn/rce-bug
+ 
 
