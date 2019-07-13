@@ -16,8 +16,8 @@ By：Greekn
 ## 0x02 文件列表
 
  >cve-rule 
- >>Redis未授权通过主从复制GETSHELL
- >>致远OA无需登录文件上传漏洞复现
+ >>Redis未授权通过主从复制GETSHELL  
+ >>致远OA无需登录文件上传漏洞复现  
  >cvss3.0  
 
 
