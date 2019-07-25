@@ -7,7 +7,6 @@ pip install argparse 命令行模块
 
 ```ObjectiveC
 
-```
 E:\tools\shodan-exp-search>shodan-exp-search.py -h
 
 
@@ -33,6 +32,8 @@ optional arguments:
   -k KEY, --key KEY     填写key
 
 E:\tools\shodan-exp-search>
+
+```
 
 
 
